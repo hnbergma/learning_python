@@ -1,2 +1,2 @@
 # learning_python
-first repository
+first repository, learning code
